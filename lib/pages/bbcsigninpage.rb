@@ -9,7 +9,7 @@ class Pages::Bbcsigninpage < SitePrism::Page
 
 	def enter_login_detail
 		username.set 'rliu@spartaglobal.co'
-		password.set 'SDET82017'
+		password.set '********'
 
 	end	
 end
